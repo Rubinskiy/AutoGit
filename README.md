@@ -31,6 +31,7 @@ times = [
     "22:00",
 ]
 ```
+Edit the name of the text file you kept in the private repo by replacing line 38 from `autogit.pyw`: `file_path = "[name].txt"`.<br>
 Keep in mind that <b>your machine needs to be running during this time</b> while connected to a working internet to be able to commit and push.
 
 ## Step 6: Auto-launch the program on startup
@@ -44,5 +45,5 @@ pause
 ```
 Replace the text `"C:\PATH\TO\CLONED\REPO\HERE"` in line 2 to the path where your cloned repo is located on your desktop.
 
-## Step 7: Try running this program by clicking on `start.bat`
+## Step 7: Run this program by clicking on `start.bat`
 A command prompt will pop up. This is the program running, leave this window open.
