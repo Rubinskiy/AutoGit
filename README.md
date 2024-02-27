@@ -46,4 +46,4 @@ pause
 Replace the text `"C:\PATH\TO\CLONED\REPO\HERE"` in line 2 to the path where your cloned repo is located on your desktop.
 
 ## Step 7: Run this program by clicking on `start.bat`
-A command prompt will pop up. This is the program running, leave this window open.
+A command prompt will pop up. This is the program running, leave this window open. The next time you reboot your computer, the program will run automatically.
