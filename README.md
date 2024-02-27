@@ -1,5 +1,5 @@
 # AutoGit
-Simple program to keep your heatmap green.<br>
+Simple Windows program to keep your heatmap green.<br>
 This program uses Python with a package called `GitPython`.
 <img src="https://github.com/Rubinskiy/AutoGit/assets/62457878/f206e44b-f570-4ed3-b9f8-a81d3a7bd590" style="transform: scale(2);">
 
